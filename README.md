@@ -5,6 +5,8 @@ version - @latest - v12.2.0
 
 # Run App
 
+<!-- runs on PORT:4200 -->
+
 npm start or ng serve
 
 # Run the server
